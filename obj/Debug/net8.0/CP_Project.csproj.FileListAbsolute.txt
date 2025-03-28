@@ -1,0 +1,14 @@
+C:\Users\Guido\OneDrive\Desktop\CP_PMG\CP_Project\CP_Project\bin\Debug\net8.0\CP_Project.exe
+C:\Users\Guido\OneDrive\Desktop\CP_PMG\CP_Project\CP_Project\bin\Debug\net8.0\CP_Project.deps.json
+C:\Users\Guido\OneDrive\Desktop\CP_PMG\CP_Project\CP_Project\bin\Debug\net8.0\CP_Project.runtimeconfig.json
+C:\Users\Guido\OneDrive\Desktop\CP_PMG\CP_Project\CP_Project\bin\Debug\net8.0\CP_Project.dll
+C:\Users\Guido\OneDrive\Desktop\CP_PMG\CP_Project\CP_Project\bin\Debug\net8.0\CP_Project.pdb
+C:\Users\Guido\OneDrive\Desktop\CP_PMG\CP_Project\CP_Project\obj\Debug\net8.0\CP_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guido\OneDrive\Desktop\CP_PMG\CP_Project\CP_Project\obj\Debug\net8.0\CP_Project.AssemblyInfoInputs.cache
+C:\Users\Guido\OneDrive\Desktop\CP_PMG\CP_Project\CP_Project\obj\Debug\net8.0\CP_Project.AssemblyInfo.cs
+C:\Users\Guido\OneDrive\Desktop\CP_PMG\CP_Project\CP_Project\obj\Debug\net8.0\CP_Project.csproj.CoreCompileInputs.cache
+C:\Users\Guido\OneDrive\Desktop\CP_PMG\CP_Project\CP_Project\obj\Debug\net8.0\CP_Project.dll
+C:\Users\Guido\OneDrive\Desktop\CP_PMG\CP_Project\CP_Project\obj\Debug\net8.0\refint\CP_Project.dll
+C:\Users\Guido\OneDrive\Desktop\CP_PMG\CP_Project\CP_Project\obj\Debug\net8.0\CP_Project.pdb
+C:\Users\Guido\OneDrive\Desktop\CP_PMG\CP_Project\CP_Project\obj\Debug\net8.0\CP_Project.genruntimeconfig.cache
+C:\Users\Guido\OneDrive\Desktop\CP_PMG\CP_Project\CP_Project\obj\Debug\net8.0\ref\CP_Project.dll
